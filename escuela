@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dia internacional de las personas con discapacidad</title>
+</head>
+<body>
+    <link rel="stylesheet" href="stilo.css">
+    <h1>Dia Internacional De Las personas con discapacidad.</h1>
+    <h2>y aqui les dire que es.</h2>
+
+    <h3>Fue proclamado por la Asamblea General de las Naciones Unidas en 1992. Este día busca promover los derechos y el bienestar de las personas con discapacidades en todos los ámbitos de la sociedad y el desarrollo. También busca aumentar la conciencia sobre su situación en los aspectos políticos, sociales, económicos y culturales de la vida diaria</h3>
+    <h3>Promover la inclusión: Se busca asegurar que las personas con discapacidades sean incluidas en todos los aspectos de la sociedad y el desarrollo.
+
+        Sensibilizar: Aumentar la conciencia pública sobre los problemas que enfrentan las personas con discapacidades, desde barreras físicas hasta prejuicios sociales.
+        
+        Fomentar los derechos humanos: Apoyar y defender los derechos y la dignidad de las personas con discapacidades, asegurando que sean tratados con respeto y equidad.
+        
+        Inspirar acción: Motivar a gobiernos, organizaciones y individuos a tomar medidas concretas para mejorar la vida de las personas con discapacidades.</h3>
+    <img src="/nose/discapacidad.jpeg" alt="Image 1">
+
+    <h3>El Día Internacional de las Personas con Discapacidad se celebra cada 3 de diciembre. Este día tiene como objetivo promover la inclusión y la igualdad de oportunidades para las personas con discapacidad. Se busca sensibilizar a la sociedad sobre los derechos y las necesidades de las personas con discapacidad, así como fomentar una mayor comprensión y respeto por su dignidad.
+
+        En muchos lugares, se llevan a cabo actividades como marchas, conferencias, talleres y eventos culturales para visibilizar los desafíos que enfrentan las personas con discapacidad y promover la creación de una sociedad más accesible y equitativa3.</h3>
+    <h3>El Día Internacional de las Personas con Discapacidad ha tenido un impacto significativo en la promoción de los derechos de las personas con discapacidades. Ha impulsado cambios legislativos, mejorado el acceso a la educación y el empleo, y aumentado la visibilidad y representación de las personas con discapacidades en los medios y la cultura popular.</h3>
+    <img src="/nose/disca.jpg" alt="Image 1">
+
+</body>
+</html>
